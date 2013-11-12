@@ -1,0 +1,31 @@
+Run ChatBotTUIApp
+
+Things you should say:
+hey
+how are you
+I'm good
+I'm bad/sad
+I'm depressed/sick
+What's your name
+What's my name
+My name is X
+I like/love X
+Do you like X
+X or Y
+<swear word>
+what is the meaning of life?
+open the bod bay doors
+Because/since/due to Y
+Are you X?
+I am X
+what do you think of X
+did you know that X
+do you X pokemon?
+do you X star wars?
+i need/require X
+i cannot X
+Will/Is/Do X
+:(
+:)
+:'(
+Maybe X
